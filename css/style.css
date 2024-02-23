@@ -1,33 +1,28 @@
 body { 
   font-family:Arial, sans-serif;
+  width: 100%;
   color: #333;
+  text-align: center;
   background-color: #fff444;
-  padding: 2px;
    }
-
-#content {
-  background-color: #fff;
-  max-width: 500px;
-  padding: 2px;
-  border-radius: 4px;
-}
 
 h1 {
   color: #556677;
   margin-top: 0;
+  font-size: 2em;
+  line-height: 1em;
 }
 
 p {
-  font-size: 5px;
-  margin-bottom: 3px;
+  font-size: 1em;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 20px;
   
 }
 
 ol {
-  padding: 0;
-  margin: 0;
+  padding-top: 10%;
+  padding-left: 10%;
 }
 
-li {
-  margin-bottom: 2px;
-}
